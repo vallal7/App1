@@ -7,9 +7,12 @@
 //
 
 import UIKit
+import MyLibrary
 
 class ViewController: UIViewController {
 
+    let ss:SamplePrint?
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
